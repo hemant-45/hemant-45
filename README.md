@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hemant Agrawal</h1>
 <br>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A Creative Devops Engineer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **Data Analytics & Engineering**
+- 🌱 I’m currently learning **Data Analytics & Engineering / Cloud & Devops**
 
 - 👨‍💻 All of my projects are available at [iamhemant.epizy.com](iamhemant.epizy.com)
 
-- 💬 Ask me about **Cloud / Devops / Cybersecurity / Data Analytics & Engineering**
+- 💬 Ask me about **Tech / Human Psychology / UX Research**
 
 - 📫 How to reach me **hemantagrawal45@gmail.com**
 
