@@ -2,18 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm Hemant Agrawal</h1>
 <br>
-<h3 align="center">A Creative Devops Engineer from India</h3>
+<h3 align="center">A Creative Engineer from India</h3>
 <br>
 
-- 🌱 I’m currently learning **Data Analytics & Engineering / Cloud & Devops**
+- 🌱 I’m currently learning **Data Analytics & Engineering**
 
 - 👨‍💻 All of my projects are available at [iamhemant.epizy.com](iamhemant.epizy.com)
 
-- 💬 Ask me about **Tech / Human Psychology / UX Research**
+- 💬 Ask me about **Tech / Human Psychology / Marketing**
 
 - 📫 How to reach me **hemantagrawal45@gmail.com**
 
-- ⚡ Fun fact **Interested in cognitive biases and laws of human nature**
+- ⚡ Fun fact **Keen to explore cognitive biases and laws of human nature**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
